@@ -25,7 +25,6 @@
     return TiDimensionAutoSize;
 }
 
-
 USE_VIEW_FOR_VERIFY_HEIGHT
 
 @end
