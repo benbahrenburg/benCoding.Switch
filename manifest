@@ -2,7 +2,7 @@
 # this is your module manifest and used by Titanium
 # during compilation, packaging, distribution, etc.
 #
-version: 0.1
+version: 0.2
 apiversion: 2
 description: Titanium module wrapper for DCRoundSwitch
 author: bencoding.com
@@ -15,4 +15,4 @@ name: switch
 moduleid: bencoding.switch
 guid: b18477f7-8ade-408a-905d-a1e6a8f1c2a4
 platform: iphone
-minsdk: 1.8.2
+minsdk: 2.1.4
